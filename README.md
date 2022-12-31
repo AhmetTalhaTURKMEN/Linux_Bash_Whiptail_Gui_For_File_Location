@@ -25,8 +25,9 @@ Script çalışacaktır.
 ![Screenshot_1](https://user-images.githubusercontent.com/75725469/210134503-6749061c-2f96-4679-9150-0ed00b3e0557.jpg)
 ### Arama ne şekilde yapılacak sorgusu ekranı
 ![Screenshot_2](https://user-images.githubusercontent.com/75725469/210134504-8c1100bc-28da-4f03-85d3-9ba022740837.jpg)
-### Aramada büyük harf küçük harf algısı olacak mı? ekranı
+### "Aramada büyük harf küçük harf algısı olacak mı?" ekranı
 ![Screenshot_3](https://user-images.githubusercontent.com/75725469/210134505-ce6cb0bf-36dd-45a3-b6ba-66d7e643b3bd.jpg)
+### Sonuçların yazdırıldığı arayüz
 ![Screenshot_4](https://user-images.githubusercontent.com/75725469/210134506-ec102040-78fc-4d62-a948-7a3d78fa0d21.jpg)
 
 
