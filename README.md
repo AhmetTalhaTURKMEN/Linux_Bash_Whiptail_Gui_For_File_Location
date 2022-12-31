@@ -5,7 +5,7 @@ https://youtu.be/zIKEEZYHqQk
 
 
 ## Proje Amacı
-Proje kullanıcıların dosya arama işlemini kolaylaştırmak için tasarlanmıştır.
+Proje kullanıcıların dosya arama işlemini kolaylaştırmak için tasarlanmıştır.Amacım kullanıcı dostu bir arayüz tasarlamaktır.
 
 ## Proje Kullanımı 
 Öncelikle project.sh adlı shell scriptini bir linux makineye indiriniz.
