@@ -6,6 +6,9 @@ https://youtu.be/zIKEEZYHqQk
 ## Proje Amacı
 Proje kullanıcıların dosya arama işlemini kolaylaştırmak için tasarlanmıştır.Amacım kullanıcı dostu bir arayüz tasarlamaktır.
 
+## Projede Kullanılan Teknoloji
+BASH
+
 ## Proje Kullanımı 
 Öncelikle project.sh adlı shell scriptini bir linux makineye indiriniz.
 
@@ -28,10 +31,3 @@ Script çalışacaktır.
 ![Screenshot_3](https://user-images.githubusercontent.com/75725469/210134505-ce6cb0bf-36dd-45a3-b6ba-66d7e643b3bd.jpg)
 ### Sonuçların yazdırıldığı arayüz
 ![Screenshot_4](https://user-images.githubusercontent.com/75725469/210134506-ec102040-78fc-4d62-a948-7a3d78fa0d21.jpg)
-
-
-
-
-
-## Projede Kullanılan Teknoloji
-BASH
