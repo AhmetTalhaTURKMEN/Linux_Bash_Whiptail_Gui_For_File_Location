@@ -3,8 +3,6 @@
 ## Proje Tanıtım Videosu 
 https://youtu.be/zIKEEZYHqQk
 
-## Projede Kullanılan Teknoloji
-BASH
 
 ## Proje Amacı
 Proje kullanıcıların dosya arama işlemini kolaylaştırmak için tasarlanmıştır.
@@ -19,3 +17,7 @@ Komut satırına "bash project.sh" yazın.
 Script çalışacaktır.
 
 ## Örnek Kullanım Görselleri
+
+
+## Projede Kullanılan Teknoloji
+BASH
