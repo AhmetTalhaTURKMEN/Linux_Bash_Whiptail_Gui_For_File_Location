@@ -7,6 +7,12 @@ https://youtu.be/zIKEEZYHqQk
 BASH
 
 ## Proje Amacı
-Proje kullanıcıların dosya arama işlemini kolaylaştırmak için tasarlanmıştır. 
+Proje kullanıcıların dosya arama işlemini kolaylaştırmak için tasarlanmıştır.
+
+## Proje Kullanımı 
+Öncelikle project.sh adlı shell scriptini bir linux makineye indiriniz.
+İndirdiğiniz dosyanın konumuna cd ile gidin.
+Komut satırına "bash project.sh" yazın.
+Script çalışacaktır.
 
 ## Örnek Kullanım Görselleri
