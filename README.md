@@ -3,7 +3,6 @@
 ## Proje Tanıtım Videosu 
 https://youtu.be/zIKEEZYHqQk
 
-
 ## Proje Amacı
 Proje kullanıcıların dosya arama işlemini kolaylaştırmak için tasarlanmıştır.Amacım kullanıcı dostu bir arayüz tasarlamaktır.
 
