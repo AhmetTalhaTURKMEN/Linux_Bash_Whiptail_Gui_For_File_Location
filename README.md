@@ -36,4 +36,4 @@ Script çalışacaktır.
 ### Sonuçların yazdırıldığı arayüz
 ![Screenshot_4](https://user-images.githubusercontent.com/75725469/210134506-ec102040-78fc-4d62-a948-7a3d78fa0d21.jpg)
 
-### Not:Projeyi dilediğiniz gibi kullanabilirsiniz. Sadece yıldız atmanız yeterli :)
+### Not: Projeyi dilediğiniz gibi kullanabilirsiniz. Sadece yıldız atmanız yeterli :)
