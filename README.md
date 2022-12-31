@@ -11,8 +11,11 @@ Proje kullanıcıların dosya arama işlemini kolaylaştırmak için tasarlanmı
 
 ## Proje Kullanımı 
 Öncelikle project.sh adlı shell scriptini bir linux makineye indiriniz.
+
 İndirdiğiniz dosyanın konumuna cd ile gidin.
+
 Komut satırına "bash project.sh" yazın.
+
 Script çalışacaktır.
 
 ## Örnek Kullanım Görselleri
