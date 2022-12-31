@@ -21,6 +21,7 @@ Script çalışacaktır.
 ![firstScreenshot](https://user-images.githubusercontent.com/75725469/210134087-8e5939a5-2be9-4e81-ac5f-c93880f5ff6e.png)
 ### "bash project.sh" komutu ile shell scriptini çalıştırdım.
 ![Screenshot_1](https://user-images.githubusercontent.com/75725469/210134423-4b23e4bb-2603-4033-ade5-08e0ced8c73c.jpg)
+### Aramada hangi klasör kullanılacak sorgusu ekranı
 ![Screenshot_1](https://user-images.githubusercontent.com/75725469/210134503-6749061c-2f96-4679-9150-0ed00b3e0557.jpg)
 ![Screenshot_2](https://user-images.githubusercontent.com/75725469/210134504-8c1100bc-28da-4f03-85d3-9ba022740837.jpg)
 ![Screenshot_3](https://user-images.githubusercontent.com/75725469/210134505-ce6cb0bf-36dd-45a3-b6ba-66d7e643b3bd.jpg)
