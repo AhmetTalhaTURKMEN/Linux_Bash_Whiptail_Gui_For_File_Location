@@ -20,7 +20,7 @@ Script çalışacaktır.
 ### Benim project.sh dosyam "Desktop"un altında olduğu için "cd Desktop" ile Desktop klasörüne girdim.
 ![firstScreenshot](https://user-images.githubusercontent.com/75725469/210134087-8e5939a5-2be9-4e81-ac5f-c93880f5ff6e.png)
 ### "bash project.sh" komutu ile shell scriptini çalıştırdım.
-![Screenshot from 2022-12-31 13-55-15](https://user-images.githubusercontent.com/75725469/210134209-57589144-d093-4c26-a5ed-4b04135fbc72.png)
+![Screenshot_1](https://user-images.githubusercontent.com/75725469/210134423-4b23e4bb-2603-4033-ade5-08e0ced8c73c.jpg)
 ![Screenshot from 2022-12-31 13-49-59](https://user-images.githubusercontent.com/75725469/210134109-b088fdf5-68e2-4622-8887-5242b4b0260f.png)
 ![Screenshot from 2022-12-31 13-50-41](https://user-images.githubusercontent.com/75725469/210134111-fea6a0f9-eb53-45d2-b437-11d74ee84ef3.png)
 ![Screenshot from 2022-12-31 13-50-47](https://user-images.githubusercontent.com/75725469/210134112-f656ca9a-47bf-42e1-a80f-e35d8e7b30a0.png)
