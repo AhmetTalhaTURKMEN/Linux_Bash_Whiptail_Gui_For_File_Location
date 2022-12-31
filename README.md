@@ -3,10 +3,10 @@
 ## Proje Tanıtım Videosu 
 https://youtu.be/zIKEEZYHqQk
 
-## Projede Kullanılan Teknolojiler
+## Projede Kullanılan Teknoloji
 BASH
 
 ## Proje Amacı
 Proje kullanıcıların dosya arama işlemini kolaylaştırmak için tasarlanmıştır. 
 
-## Örnek Kullanım Görseller
+## Örnek Kullanım Görselleri
